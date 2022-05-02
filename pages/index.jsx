@@ -18,8 +18,7 @@ function Home() {
               Hi, my name is Anna!
             </h1>
             <p className="description">
-              This is my first project. Look forward to learn more about this
-              whole process!
+              I recently started a Coding Bootcamp. Have a look at my portfolio!
             </p>
 
             <Link href="/contact">
